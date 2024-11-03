@@ -99,7 +99,7 @@ Jika user memiliki kartu member maka akan dapat diskon 20%
 # 2. Kalkulator sederhana
 Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
 ## Flowchart
-![flowchart](Flowchart/bioskop.png)
+![flowchart](Flowchart/kalkulator.png)
 ## code
 ````
 # Program Kalkulator Sederhana
