@@ -10,7 +10,7 @@ NIM: 312410157
 # 1. Tiket Bioskop
 Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 20%
 ## Flowchart
-
+![flowchart](Flowchart/bioskop.png)
 ## code
 ````
 # Program menghitung harga tiket bioskop
@@ -99,7 +99,7 @@ Jika user memiliki kartu member maka akan dapat diskon 20%
 # 2. Kalkulator sederhana
 Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
 ## Flowchart
-
+![flowchart](Flowchart/bioskop.png)
 ## code
 ````
 # Program Kalkulator Sederhana
