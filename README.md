@@ -100,7 +100,18 @@ Jika user memiliki kartu member maka akan dapat diskon 20%
 Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
 ## Flowchart
 #### Program akan meminta input angka dan Operator perhitungan
-![output](outputbioskop/outputbioskop1.png)
+![output](outputkalkulator/Screenshot1.png)
+#### Contoh apabila kita memilih Operasi hitung Penjumlahan
+![output](outputkalkulator/Screenshot2.png)
+#### Contoh apabila kita memilih Operasi hitung Pengurangan
+![output](outputkalkulator/Screenshot3.png)
+#### Contoh apabila kita memilih Operasi hitung Perkalian
+![output](outputkalkulator/Screenshot4.png)
+#### Contoh apabila kita memilih Operasi hitung Pembagian
+![output](outputkalkulator/Screenshot5.png)
+#### Contoh apabila kita memilih Operasi hitung Pembagian namun dibagi 0
+![output](outputkalkulator/Screenshot6.png)
+Apabila angka kedua adalah 0 maka pembagian akan error.
 
 ## code
 ````
