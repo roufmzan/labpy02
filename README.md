@@ -1,4 +1,4 @@
-# Membuat Program dan Flowchart dari program Tiket Bioskop dan juga Kalkulator
+# Membuat Program dan Flowchart Tiket Bioskop dan Kalkulator sederhana
 Tugas Pertemuan Ke 6
 
 Nama: Ro'uf Muhammad Fauzan
