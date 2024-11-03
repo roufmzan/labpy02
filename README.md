@@ -12,7 +12,7 @@ Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. K
 ## Flowchart
 
 #### Program akan meminta user untuk menginputkan tipe tiket
-
+![output](outputbioskop1.png)
 ## code
 ````
 # Program menghitung harga tiket bioskop
