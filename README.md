@@ -11,8 +11,6 @@ NIM: 312410157
 Program tiket bioskop ini adalah program untuk menghitung harga Tiket bioskop. Konsepnya adalah jika user memiliki kartu member maka user akan mendapatkan diskon 20%
 ## Flowchart
 
-#### Program akan meminta user untuk menginputkan tipe tiket
-![output](outputbioskop/outputbioskop1.png)
 ## code
 ````
 # Program menghitung harga tiket bioskop
@@ -43,7 +41,7 @@ print(f"Harga Dasar: Rp{harga_dasar:,.0f}")
 print(f"Diskon: {diskon*100:.0f}%")
 print(f"Total Harga: Rp{total_harga:,.0f}")
 ````
-#### Penjelasan dari code program tiket bioskop
+## Penjelasan dari code program tiket bioskop
 
 1.Perintah dibawah adalah untuk menampilkan judul program dan pilihan tiket yang tersedia.
 ````
@@ -89,6 +87,14 @@ print(f"Harga Dasar: Rp{harga_dasar:,.0f}")
 print(f"Diskon: {diskon*100:.0f}%")
 print(f"Total Harga: Rp{total_harga:,.0f}")
 ````
+## output
+#### Program akan meminta user untuk menginputkan tipe tiket
+![output](outputbioskop/outputbioskop1.png)
+#### Program akan menanyakan status member
+![output](outputbioskop/outputbioskop2.png)
+Jika user memiliki kartu member maka akan dapat diskon 20%
+#### Output apabila input yang dimasukkan user adalah N atau tidak memiliki member
+![output](outputbioskop/outputbioskop3.png)
 
 # 2. Kalkulator sederhana
 Program ini adalah program Kalkulator sederhana yang berfungsi untuk menghitung dua angka sesuai dengan operasi hitung yang dipilih.
