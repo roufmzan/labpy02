@@ -154,8 +154,9 @@ except Exception as e:
     print(f"\nTerjadi kesalahan: {e}")
 ````
 ## Penjelasan code dari program Kalkulator
-````
+
 1.Perintah untuk menampilkan Judul dan Operator yang tersedia
+````
 print("=== Program Kalkulator Sederhana ===")
 print("Operator yang tersedia:")
 print("+ : Penjumlahan")
